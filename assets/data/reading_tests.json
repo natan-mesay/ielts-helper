@@ -1,0 +1,3452 @@
+[
+  {
+    "id": "READING-1516",
+    "title": "The Importance of Law",
+    "topic": "Society & Legal Systems",
+    "category": "Recent Actual Tests",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "The law influences all of us virtually all the time. It governs almost all aspects of our behavior, and even what happens to us when we are no longer alive. It affects us from the embryo onwards. It governs the air we breathe, the food and drink we consume, our travel, family relationships, and our property. It applies at the bottom of the ocean and in space. Each time we examine a label on a food product, engage in work as an employee or employer, travel on the roads, go to school to learn or to teach, stay in a hotel, borrow a library book, create or dissolve a commercial company, play sports, or engage the services of someone for anything from plumbing a sink to planning a city, we are in the world of law.",
+      "B": "Law has also become much more widely recognised as the standard by which behavior needs to be judged. A very telling development in recent history is the way in which the idea of law has permeated all parts of social life. The universal standard of whether something is socially tolerated is progressively becoming whether it is legal, rather than something that has always been considered acceptable. In earlier times, most people were illiterate. Today, by contrast, a vast number of people can read, and it is becoming easier for people to take an interest in law, and for the general population to help actually shape the law in many countries. However, law is a versatile instrument that can be used equally well for the improvement or the degradation of humanity.",
+      "C": "This, of course, puts law in a very significant position. In our rapidly developing world, all sorts of skills and knowledge are valuable. Those people, for example, with knowledge of computers, the internet, and communications technology are relied upon by the rest of us. There is now someone with IT skills or an IT help desk in every UK school, every company, every hospital, every local and central government office. Without their knowledge, many parts of commercial and social life today would seize up in minutes. But legal understanding is just as vital and as universally needed. The American comedian Jerry Seinfeld put it like this: 'We are all throwing the dice, playing the game, moving our pieces around the board, but if there is a problem, the lawyer is the only person who has read the inside of the top of the box.' In other words, the lawyer is the only person who has read and made sense of the rules.",
+      "D": "The number of laws has never been greater. In the UK alone, about 35 new Acts of Parliament are produced every year, thereby delivering thousands of new rules. The legislative output of the British Parliament has more than doubled in recent times from 1,100 pages a year in the early 1970s to over 2,500 pages a year today. Between 1997 and 2006, the legislature passed 365 Acts of Parliament and more than 32,000 legally binding statutory instruments. In a system with so much law, lawyers do a great deal not just to vindicate the rights of citizens and organizations, but also to help develop the law through legal arguments, some of which are adapted by judges to become laws. Law courts can and do produce new law and revise old law, but they do so having heard the arguments of lawyers.",
+      "E": "However, despite their important role in developing the rules, lawyers are not universally admired. Anti-lawyer jokes have a long history going back to the ancient Greeks. More recently, the son of a famous Hollywood actor was asked at his junior school what his father did for a living, to which he replied, 'My daddy is a movie actor, and sometimes he plays the good guy, and sometimes he plays the lawyer.' For balance, though, it is worth remembering that there are and have been many heroic and revered lawyers, such as the Roman philosopher and politician Cicero, and Mahatma Gandhi, the Indian campaigner for independence.",
+      "F": "People sometimes make comments that characterise lawyers as professionals whose concerns put personal reward above truth, or who gain financially from misfortune. There are undoubtedly lawyers that would fit that bill, just as there are some scientists, journalists and others in that category. But, in general, it is no more just to say that lawyers are bad because they make a living from people's problems than it is to make the same accusation in respect of nurses or IT consultants. A great many lawyers are involved in public interest law and civil liberties work that requires considerable professional dedication. Moreover, a great deal of everyday legal work consists of drafting agreements and documents to prevent disputes before they can arise."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "The law affects human beings even before they are born.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states: 'It affects us from the embryo onwards.'"
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "In the past, societal acceptance was largely based on written law rather than tradition.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B explains that the universal standard is progressively becoming whether something is legal, rather than something that has always been considered acceptable."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "The general public has more influence on legislation now than in ancient times.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B contrasts earlier times when people were illiterate with today, where it is becoming easier for people to help actually shape the law."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Jerry Seinfeld trained as a lawyer before becoming a famous comedian.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C quotes Seinfeld's board game analogy, but provides no information regarding his personal education or career background."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Judges in the UK never create or modify laws independently of lawyers' arguments.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states: 'Law courts can and do produce new law and revise old law, but they do so having heard the arguments of lawyers.'"
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Mahatma Gandhi gave up practicing law completely after entering politics.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions Gandhi as a revered lawyer and campaigner for independence, but does not state whether he stopped practicing law entirely."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "Jerry Seinfeld's board game analogy in Paragraph C is used to illustrate that:",
+        "options": [
+          "A) Lawyers are more intelligent than IT consultants",
+          "B) Only lawyers understand the comprehensive framework of rules",
+          "C) Modern legal disputes are like frivolous board games",
+          "D) Society relies too heavily on legal intervention"
+        ],
+        "accepted_answers": [
+          "B",
+          "B) Only lawyers understand the comprehensive framework of rules"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C concludes the quote with: 'In other words, the lawyer is the only person who has read and made sense of the rules.'"
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph D, between 1997 and 2006, the British Parliament enacted:",
+        "options": [
+          "A) 2,500 new statutory instruments",
+          "B) Over 32,000 legally binding statutory instruments",
+          "C) 1,100 pages of statutory rules",
+          "D) 35 statutory instruments per year"
+        ],
+        "accepted_answers": [
+          "B",
+          "B) Over 32,000 legally binding statutory instruments"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explicitly states: 'Between 1997 and 2006, the legislature passed 365 Acts of Parliament and more than 32,000 legally binding statutory instruments.'"
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Some critics claim that financial benefit matters more to lawyers than the ______ itself.",
+        "accepted_answers": [
+          "law",
+          "the law",
+          "truth",
+          "the truth"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F notes comments that characterise lawyers as professionals 'whose concerns put personal reward above truth'."
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Criticizing lawyers for earning a living from societal difficulties is as unfair as targeting ______ or IT consultants.",
+        "accepted_answers": [
+          "nurses",
+          "scientists"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F states: 'it is no more just to say that lawyers are bad because they make a living from people's problems than it is to make the same accusation in respect of nurses or IT consultants'."
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "In addition to nurses, another profession compared in Paragraph F to show unfair public blame is ______.",
+        "accepted_answers": [
+          "IT consultants",
+          "consultants",
+          "scientists",
+          "journalists"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F explicitly mentions 'nurses or IT consultants' as parallel professions."
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Lawyers handling civil liberties and public interest cases require substantial professional ______.",
+        "accepted_answers": [
+          "dedication"
+        ],
+        "word_limit": 1,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F directly states that public interest work 'requires considerable professional dedication'."
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "A major part of routine legal practice involves preparing agreements and ______ to avoid future conflict.",
+        "accepted_answers": [
+          "documents"
+        ],
+        "word_limit": 1,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F explains: 'everyday legal work consists of drafting agreements and documents to prevent disputes before they can arise.'"
+      }
+    ]
+  },
+  {
+    "id": "READING-1540",
+    "title": "The Dingo Debate",
+    "topic": "Wildlife & Conservation",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "The dingo, Australia's native apex predator, has been an iconic yet intensely polarizing figure in the country's ecological history. Arriving approximately 4,000 years ago, likely introduced by Asian seafaring traders, the dingo quickly established itself across mainland Australia. For thousands of years, it coexisted with Indigenous Australians as a hunting companion and spiritual figure. However, the arrival of European pastoralists in the late 18th century transformed the dingo from a respected native carnivore into a despised agricultural pest.",
+      "B": "The primary tension stems from predation on commercial livestock, particularly domestic sheep and young calves. In response to mounting livestock losses during the late 19th century, Australian pastoralists erected the famous Dingo Fence. Stretching over 5,600 kilometers from Queensland through South Australia, it remains one of the longest man-made structures in the world. Its purpose was unequivocal: to exclude dingoes from the fertile pastoral lands of south-eastern Australia and protect the wool and beef industries.",
+      "C": "While the fence succeeded in suppressing dingo populations south of the barrier, modern ecologists argue that it inadvertently triggered profound trophic cascades. Without dingoes acting as top-order apex predators, populations of mesopredators—primarily the introduced red fox and feral cat—surged unchecked. These smaller predators have exerted devastating pressure on small-to-medium native marsupials, contributing directly to Australia having one of the worst mammal extinction records on Earth.",
+      "D": "Furthermore, the absence of dingoes has led to explosive surges in native and feral herbivore populations, including red kangaroos and feral goats. These herbivores cause severe overgrazing, stripping semi-arid soil of perennial native grasses and accelerating desertification and land degradation. North of the Dingo Fence, where dingoes remain relatively abundant, vegetation cover is notably denser and small rodent diversity is measurably higher.",
+      "E": "A further biological complication is the hybridization between pure dingoes and modern domestic dogs. Genetic surveys indicate that in south-eastern Australia, pure dingo genetics have been substantially diluted. Many farmers argue that hybrids and wild dogs lack the natural wariness of pure dingoes and pose an even greater threat to livestock. In contrast, conservation biologists advocate for recognizing pure dingoes as a threatened native taxon that warrants formal legal preservation.",
+      "F": "Today, rewilding initiatives and predator-friendly farming methods are gaining traction among progressive graziers. Some pastoralists have successfully replaced indiscriminate poison-baiting (using compound 1080) with livestock guardian animals, such as Maremma sheepdogs or alpacas. These guard animals deter dingoes without eradicating them, enabling apex predators to continue regulating destructive feral foxes and kangaroo numbers while keeping sheep safe."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Dingoes were first brought to Australia by European explorers in the 18th century.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states they arrived approximately 4,000 years ago, introduced by Asian traders."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The Dingo Fence stretches across more than 5,000 kilometers of Australian territory.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms it stretches 'over 5,600 kilometers from Queensland through South Australia'."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "The construction of the Dingo Fence received unanimous support from 19th-century scientists.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions pastoralists erected the fence, but gives no information on 19th-century scientific opinions."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "In areas without dingoes, populations of red foxes and feral cats expanded rapidly.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states: 'populations of mesopredators—primarily the introduced red fox and feral cat—surged unchecked'."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Vegetation cover is sparser north of the Dingo Fence compared to the south.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explicitly states: 'North of the Dingo Fence, where dingoes remain relatively abundant, vegetation cover is notably denser'."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Maremma sheepdogs have completely replaced compound 1080 across all Australian farms.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F states 'some pastoralists' have adopted guardian animals, not that it replaced 1080 completely across all farms."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What is described in Paragraph C as a major consequence of eliminating dingoes?",
+        "options": [
+          "A) A decline in wool exports from south-eastern Australia",
+          "B) Disruption of the food web leading to higher native mammal extinctions",
+          "C) Increased competition between cattle and domestic dogs",
+          "D) Rapid spread of infectious diseases among sheep"
+        ],
+        "accepted_answers": [
+          "B",
+          "B) Disruption of the food web leading to higher native mammal extinctions"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C details trophic cascades where fox and cat predation caused devastating pressure on small native marsupials."
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph E, why do some farmers consider hybrid wild dogs especially dangerous?",
+        "options": [
+          "A) They reproduce twice as quickly as pure dingoes",
+          "B) They are immune to standard chemical poison baits",
+          "C) They lack the innate caution of pure dingoes",
+          "D) They hunt in packs much larger than native dingoes"
+        ],
+        "accepted_answers": [
+          "C",
+          "C) They lack the innate caution of pure dingoes"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states farmers argue that 'hybrids and wild dogs lack the natural wariness of pure dingoes'."
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Dingoes first arrived in Australia an estimated ______ years ago.",
+        "accepted_answers": [
+          "4,000",
+          "4000",
+          "four thousand"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states: 'Arriving approximately 4,000 years ago'."
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The primary goal of building the Dingo Fence was to safeguard the beef and ______ sectors.",
+        "accepted_answers": [
+          "wool"
+        ],
+        "word_limit": 1,
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states the objective was to 'protect the wool and beef industries'."
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Unchecked herbivore populations accelerate soil erosion and lead to ______.",
+        "accepted_answers": [
+          "desertification",
+          "land degradation"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states overgrazing leads to 'accelerating desertification and land degradation'."
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Indiscriminate poison-baiting in Australia commonly uses a chemical compound called ______.",
+        "accepted_answers": [
+          "1080",
+          "compound 1080"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F mentions 'poison-baiting (using compound 1080)'."
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Some farmers now protect their herds by introducing guardian animals such as alpacas or ______.",
+        "accepted_answers": [
+          "Maremma sheepdogs",
+          "sheepdogs",
+          "guard dogs"
+        ],
+        "word_limit": 2,
+        "evidence_paragraph": "Paragraph F",
+        "explanation": "Paragraph F specifies 'livestock guardian animals, such as Maremma sheepdogs or alpacas'."
+      }
+    ]
+  },
+  {
+    "id": "READING-1003",
+    "title": "The History of Glass",
+    "topic": "Technology & Industry",
+    "category": "Science",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "From our earliest origins, man has been making use of glass. Historians have found evidence that obsidian, a naturally occurring volcanic glass, was used by Stone Age peoples to craft sharp cutting tools and arrowheads. However, archaeological records indicate that the earliest human-made glass originated around 3500 BC in Mesopotamia, where craftsmen produced coarse, opaque beads as decorative ornaments.",
+      "B": "The pivotal transformation in glassmaking occurred during the 1st century BC on the Syrian-Palestinian coast with the invention of the blowpipe. Glassblowing enabled artisans to create vessels with thin walls and varied shapes rapidly. The Roman Empire recognized the immense utilitarian potential of this breakthrough, establishing workshops across Europe and the Mediterranean and establishing glass as a regular household commodity.",
+      "C": "In medieval times, Venice emerged as the indisputable glass capital of the Western world. To protect the secrets of glass production and prevent catastrophic city fires, the Venetian government ordered all glass furnaces relocated to the island of Murano in 1291. Venetian masters perfected cristallo, an unprecedentedly clear glass that was coveted by European aristocrats and royalty.",
+      "D": "The 19th century witnessed the industrialization of glass manufacturing. In Britain, the abolition of the punitive glass excise duty in 1845 catalyzed an architectural renaissance, culminating in the construction of the Crystal Palace in 1851. Designed by Joseph Paxton, this monumental glass and iron structure proved that glass could serve as a primary building material.",
+      "E": "Modern architectural glass was revolutionized in the 1950s by Sir Alastair Pilkington's development of the float glass process. By floating molten glass over a bath of molten tin, manufacturers could produce perfectly flat, distortion-free sheets continuously, slashing production costs and giving rise to the modern glass skyscraper."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Stone Age humans possessed the technology to manufacture artificial glass.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states obsidian was a naturally occurring volcanic glass, not artificially manufactured."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The blowpipe was invented in ancient Mesopotamia.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B notes the blowpipe was invented on the Syrian-Palestinian coast in the 1st century BC."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Venetian glassmakers were compelled by law to move to Murano in the late 13th century.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms the Venetian government ordered furnaces relocated to Murano in 1291."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Joseph Paxton was trained as an architect before designing the Crystal Palace.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions Paxton designed the building, but gives no information on his earlier training."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The float glass process relies on molten lead to support the cooling glass.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states it floats molten glass over a bath of molten tin, not lead."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "The abolition of glass taxes in Britain led to increased use of glass in architecture.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states the abolition in 1845 catalyzed an architectural renaissance."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph B, why did the Roman Empire promote glassblowing?",
+        "accepted_answers": [
+          "B",
+          "B) Because it enabled rapid mass production of household vessels"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B explains that glassblowing allowed artisans to create vessels rapidly, establishing it as a regular household commodity.",
+        "options": [
+          "A) To use glass vessels exclusively for military medical storage",
+          "B) Because it enabled rapid mass production of household vessels",
+          "C) To restrict luxury glassware to the imperial court",
+          "D) Because glassblowers paid exceptionally high commercial taxes"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What major breakthrough did Sir Alastair Pilkington achieve in the 1950s?",
+        "accepted_answers": [
+          "B",
+          "B) Producing completely flat sheet glass without surface distortion"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states his float glass process produced perfectly flat, distortion-free sheets continuously.",
+        "options": [
+          "A) Formulating fire-resistant tempered glass",
+          "B) Producing completely flat sheet glass without surface distortion",
+          "C) Eliminating the need for silica sand in glass recipes",
+          "D) Developing the first stained glass windows for cathedrals"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Naturally occurring volcanic glass utilized by early humans is known as ______.",
+        "accepted_answers": [
+          "obsidian"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A mentions 'obsidian, a naturally occurring volcanic glass'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Venetian craftsmen became famous for inventing an exceptionally clear glass called ______.",
+        "accepted_answers": [
+          "cristallo"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states Venetian masters perfected 'cristallo, an unprecedentedly clear glass'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "In 1845, British glass production expanded following the removal of an excise ______.",
+        "accepted_answers": [
+          "duty",
+          "tax"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D refers to 'the abolition of the punitive glass excise duty in 1845'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The famous Crystal Palace constructed in 1851 was designed by ______.",
+        "accepted_answers": [
+          "Joseph Paxton",
+          "Paxton"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explicitly names 'Joseph Paxton' as the designer.",
+        "word_limit": 2
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "In the float glass method, molten glass is layered across molten ______.",
+        "accepted_answers": [
+          "tin"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E specifies floating molten glass over 'a bath of molten tin'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1004",
+    "title": "Urban Farming and Vertical Agriculture",
+    "topic": "Agriculture & Environment",
+    "category": "Recent Actual Tests",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "By the year 2050, the United Nations projects that nearly 70 percent of the global population will reside in urban centers. As planetary arable land reaches maximum utilization and climate volatility strains conventional outdoor agriculture, food security experts are advocating for radical solutions. Urban farming—and specifically vertical agriculture—has shifted from an architectural novelty into an imperative agro-technological sector.",
+      "B": "Vertical farming involves cultivating crops inside climate-controlled multi-story buildings using stacked layers. These facilities substitute natural soil with soilless growing techniques, including hydroponics (submerging roots in mineral-rich water) and aeroponics (suspending roots and misting them with nutrient vapor). By engineering the optimal photoperiod and spectrum through specialized LED luminaires, vertical farms accelerate plant growth cycles dramatically.",
+      "C": "The environmental benefits of indoor vertical farming are substantial. Chief among them is water conservation: closed-loop aeroponic systems consume up to 95 percent less water than conventional field farming because transpiration moisture is continuously condensed and recycled. Furthermore, because indoor environments exclude agricultural pests, crops are cultivated entirely without chemical pesticides, insecticides, or synthetic herbicides.",
+      "D": "Nevertheless, vertical agriculture faces formidable economic and physiological hurdles. The upfront capital expenditure required for sensors, robotics, and LED systems remains exorbitant. More critically, high electricity consumption for lighting and heating creates a substantial operational cost burden that often cancels out carbon savings, particularly in regions where electric grids depend on fossil fuels.",
+      "E": "Currently, vertical farms are largely confined to high-value leafy greens, herbs, and microgreens because staple calorie crops like wheat, rice, and corn require far more space and light energy than indoor operations can economically sustain. Researchers are striving to breed dwarf crop cultivars and incorporate low-cost renewable energy to make vertical farming scalable for broader nutritional needs."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "The UN predicts that over two-thirds of humanity will live in cities by 2050.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states UN projects nearly 70 percent will reside in urban centers."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Aeroponic farming involves planting crops in organic volcanic soil.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states aeroponics suspends roots in mist without soil."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Closed-loop vertical farms reuse water collected from plant transpiration.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms transpiration moisture is condensed and recycled."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Chemical herbicides are applied in vertical farms during winter months.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states crops are cultivated entirely without synthetic herbicides."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Vertical farming currently produces the majority of commercial wheat in Japan.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes vertical farms are confined to greens and herbs, but gives no stats on Japanese wheat."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Energy expenses represent a significant financial obstacle for vertical farm operators.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D highlights high electricity consumption as a substantial operational burden."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph C, how much water can aeroponic farming save compared to open-field agriculture?",
+        "accepted_answers": [
+          "C",
+          "C) Up to 95 percent"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explicitly specifies: 'consume up to 95 percent less water'.",
+        "options": [
+          "A) Up to 40 percent",
+          "B) Approximately 65 percent",
+          "C) Up to 95 percent",
+          "D) Nearly 100 percent"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "Why do vertical farms focus primarily on herbs and leafy greens rather than wheat?",
+        "accepted_answers": [
+          "B",
+          "B) Calorie-dense staple crops require uneconomical amounts of light and space"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes staple crops require far more space and light energy than operations can economically sustain.",
+        "options": [
+          "A) Government agricultural subsidies ban indoor grain cultivation",
+          "B) Calorie-dense staple crops require uneconomical amounts of light and space",
+          "C) Consumers refuse to purchase indoor-grown cereals",
+          "D) Grain plants cannot absorb hydroponic liquid minerals"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The technique of growing plants by suspending roots in nutrient mist is called ______.",
+        "accepted_answers": [
+          "aeroponics"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B defines 'aeroponics (suspending roots and misting them with nutrient vapor)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Vertical farms regulate crop photosynthesis by employing energy-efficient ______ luminaires.",
+        "accepted_answers": [
+          "LED"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies 'specialized LED luminaires'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Indoor vertical facilities operate without using chemical ______ to eliminate pests.",
+        "accepted_answers": [
+          "pesticides",
+          "insecticides"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states crops are grown 'entirely without chemical pesticides'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "A significant challenge for indoor agriculture is high electricity consumption driven by ______ and heating.",
+        "accepted_answers": [
+          "lighting"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions 'high electricity consumption for lighting and heating'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Scientists are attempting to develop ______ crop cultivars that require less vertical space.",
+        "accepted_answers": [
+          "dwarf"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes efforts to 'breed dwarf crop cultivars'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1005",
+    "title": "The Psychology of Creative Thinking",
+    "topic": "Cognition & Psychology",
+    "category": "Education",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "For decades, conventional wisdom posited that creativity was an innate, mysterious gift bestowed upon rare geniuses. However, modern cognitive neuroscience reveals that creative problem-solving is not a supernatural lightning bolt, but a distinct mental process relying on the dynamic interaction of several widely distributed brain networks. Anyone can cultivate divergent thinking through deliberate practice and cognitive reframing.",
+      "B": "Psychologists distinguish between two complementary modes of thought: convergent and divergent thinking. Convergent thinking involves applying established rules and logical deduction to find a single, correct answer to a well-defined question, such as solving a quadratic equation. In contrast, divergent thinking requires exploring multiple possibilities, generating unusual associations, and producing unexpected answers to open-ended challenges.",
+      "C": "Neuroimaging studies reveal that during creative incubation, the brain oscillates between the Executive Control Network (ECN) and the Default Mode Network (DMN). The DMN, active when our attention wanders away from external tasks, facilitates spontaneous idea generation and free-associative thinking. Conversely, the ECN acts as an editorial filter, critically evaluating whether the generated ideas are plausible, novel, and relevant to the objective.",
+      "D": "A pervasive barrier to creative thinking is functional fixedness—a cognitive bias where an individual is incapable of seeing an object used beyond its traditional role. In classical experiments pioneered by psychologist Karl Duncker, participants struggled to mount a candle on a wall using only a box of thumbtacks because they viewed the box solely as a container, rather than as a potential candle shelf.",
+      "E": "To counter cognitive entrenchment, creative organizations encourage psychological safety and cognitive dissonance. Exposing individuals to contrasting viewpoints and deliberately ambiguous problems forces the brain out of habitual cognitive pathways, stimulating the synthesis of novel conceptual frameworks."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Early psychology viewed creative ability as an innate, unteachable trait.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states conventional wisdom posited creativity was an innate, mysterious gift."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Convergent thinking is characterized by seeking multiple alternative answers.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B defines convergent thinking as finding a single, correct answer."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "The Default Mode Network activates when a person engages in daydreaming.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C notes the DMN is active when attention wanders away from external tasks."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Karl Duncker conducted his candle experiment at Harvard University.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D discusses Duncker's candle experiment but does not state the university location."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Functional fixedness helps engineers discover alternative tool applications.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D defines functional fixedness as a barrier where individuals cannot see objects beyond traditional roles."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Deliberate cognitive reframing can help people enhance their divergent thinking.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states anyone can cultivate divergent thinking through practice and reframing."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What role does the Executive Control Network play in creative cognition?",
+        "accepted_answers": [
+          "C",
+          "C) Evaluating generated ideas for feasibility and relevance"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains the ECN acts as an editorial filter evaluating if ideas are plausible and relevant.",
+        "options": [
+          "A) Generating random, unrestricted fantasies",
+          "B) Suppressing unconscious emotional impulses",
+          "C) Evaluating generated ideas for feasibility and relevance",
+          "D) Coordinating fine motor skills during artistic creation"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "Karl Duncker's famous candle problem demonstrated that participants:",
+        "accepted_answers": [
+          "B",
+          "B) Failed to recognize that a container could serve as a functional shelf"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains participants viewed the box solely as a container rather than a candle shelf.",
+        "options": [
+          "A) Lacked the manual dexterity to handle small thumbtacks",
+          "B) Failed to recognize that a container could serve as a functional shelf",
+          "C) Refused to light candles due to safety concerns",
+          "D) Preferred working in teams rather than solving problems individually"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Finding a single correct solution via logic is termed ______ thinking.",
+        "accepted_answers": [
+          "convergent"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B defines convergent thinking as finding a single correct answer.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Generating multiple spontaneous solutions to open problems is known as ______ thinking.",
+        "accepted_answers": [
+          "divergent"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B describes divergent thinking as generating multiple unexpected answers.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "The neural network active during mind-wandering and incubation is the ______ Mode Network.",
+        "accepted_answers": [
+          "Default"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C introduces the 'Default Mode Network (DMN)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The inability to see alternative functions for an object is called functional ______.",
+        "accepted_answers": [
+          "fixedness"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explicitly introduces 'functional fixedness'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Psychologist Karl ______ designed the famous candle mounting experiment.",
+        "accepted_answers": [
+          "Duncker"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D names psychologist 'Karl Duncker'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1006",
+    "title": "Coral Reef Bleaching and Ocean Acidification",
+    "topic": "Marine Biology",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Often referred to as the 'rainforests of the sea', coral reefs occupy less than 0.1 percent of the ocean floor, yet they provide habitat, breeding nurseries, and foraging grounds for over 25 percent of all documented marine species. However, escalating anthropogenic greenhouse gas emissions are subjecting coral ecosystems to dual global chemical stressors: thermal stress and ocean acidification.",
+      "B": "Corals are colonial organisms composed of thousands of tiny polyps that exist in a delicate mutualistic symbiosis with microscopic dinoflagellate algae known as zooxanthellae. Residing within coral tissues, zooxanthellae perform photosynthesis, converting solar radiation into sugars that supply up to 90 percent of the coral host's nutritional energy. In exchange, the coral polyp provides the algae with metabolic waste products and a protected habitat.",
+      "C": "When seawater temperatures elevate by as little as 1 to 2 degrees Celsius above normal summer maximums for sustained periods, the photosynthetic machinery of zooxanthellae becomes overwhelmed. The algae begin producing toxic reactive oxygen species. To protect its tissues from oxidative damage, the coral polyp expels the zooxanthellae. Deprived of their photosynthetic pigments, the transparent coral tissue exposes the stark white calcium carbonate skeleton underneath—a phenomenon termed coral bleaching.",
+      "D": "Simultaneously, approximately 30 percent of human-emitted carbon dioxide dissolves directly into surface seawater. When carbon dioxide reacts with water molecules, it forms carbonic acid, which dissociates into hydrogen ions. These surplus hydrogen ions consume ambient carbonate ions, significantly lowering seawater pH and depleting the building blocks that calcifying organisms require to construct their aragonite skeletons.",
+      "E": "Marine scientists warn that if ocean acidification and thermal anomalies continue unabated, structural coral dissolution will outpace reef accretion by mid-century, triggering catastrophic ecological collapse across tropical marine food webs and devastating coastal fishing and tourism economies."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Coral reefs cover more than five percent of the world's total ocean floor.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states reefs occupy less than 0.1 percent of the ocean floor."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Zooxanthellae provide up to 90 percent of their coral host's nutritional requirements.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms zooxanthellae supply up to 90 percent of nutritional energy."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Coral bleaching occurs only when seawater temperatures rise by at least 10 degrees Celsius.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states temperatures need only rise by 1 to 2 degrees Celsius."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Bleached corals immediately die the moment zooxanthellae are expelled.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains bleaching exposes the white skeleton, but does not state mortality is instantaneous."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Carbon dioxide absorption increases the concentration of carbonate ions in seawater.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains surplus hydrogen ions consume and deplete ambient carbonate ions."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Aragonite is a mineral form of calcium carbonate used by corals to build skeletons.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions calcifying organisms use it to construct aragonite skeletons."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "Why do corals expel zooxanthellae during marine heatwaves?",
+        "accepted_answers": [
+          "A",
+          "A) To prevent physical damage from toxic reactive oxygen species"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains the polyp expels algae to protect tissues from oxidative damage caused by reactive oxygen species.",
+        "options": [
+          "A) To prevent physical damage from toxic reactive oxygen species",
+          "B) To allow predatory fish to consume excess algae",
+          "C) To absorb deeper ultraviolet radiation from the sun",
+          "D) Because algae consume all the coral's calcium reserves"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What chemical reaction causes ocean acidification?",
+        "accepted_answers": [
+          "B",
+          "B) Dissolved carbon dioxide combining with water to produce carbonic acid"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D details that dissolved carbon dioxide reacts with water to form carbonic acid.",
+        "options": [
+          "A) Agricultural fertilizer runoff reacting with coral mucus",
+          "B) Dissolved carbon dioxide combining with water to produce carbonic acid",
+          "C) Industrial microplastics releasing synthetic sulfuric acid",
+          "D) Deep-sea volcanic thermal vents spewing hydrochloric acid"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The microscopic photosynthetic algae living within coral polyps are called ______.",
+        "accepted_answers": [
+          "zooxanthellae"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B names 'dinoflagellate algae known as zooxanthellae'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "When corals lose their photosynthetic algae, their white calcium carbonate ______ becomes visible.",
+        "accepted_answers": [
+          "skeleton"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C refers to 'the stark white calcium carbonate skeleton underneath'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Roughly ______ percent of anthropogenic carbon dioxide emissions are absorbed by oceans.",
+        "accepted_answers": [
+          "30",
+          "thirty"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states 'approximately 30 percent of human-emitted carbon dioxide dissolves'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Excess hydrogen ions in acidified seawater deplete ambient ______ ions.",
+        "accepted_answers": [
+          "carbonate"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains hydrogen ions 'consume ambient carbonate ions'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Corals construct their rigid external structures utilizing a mineral compound termed ______.",
+        "accepted_answers": [
+          "aragonite"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions organisms constructing their 'aragonite skeletons'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1007",
+    "title": "Ancient Navigators of the Pacific",
+    "topic": "Maritime History",
+    "category": "History & Culture",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Covering more than one-third of the globe, the Pacific Ocean is the vastest body of water on Earth. For centuries, European scholars maintained that the indigenous settlement of the remote Polynesian triangle—bounded by Hawaii to the north, Easter Island (Rapa Nui) to the east, and New Zealand (Aotearoa) to the southwest—was the accidental result of drifting fishermen blown off course by storms.",
+      "B": "However, meticulous ethnographic, archaeological, and genetic research has definitively discredited the 'accidental drift' hypothesis. Pacific Islanders were in fact the most sophisticated open-ocean navigators in human prehistory. Beginning around 1500 BC, Lapita voyagers ventured eastward across thousands of miles of open sea in double-hulled voyaging canoes, navigating without magnetic compasses, sextants, or written charts.",
+      "C": "The Polynesian navigational system, known as wayfinding, relied on an encyclopedic memorization of natural celestial and oceanic phenomena. Navigators aligned their courses using the star compass, which divided the horizon into 32 distinct houses where stars rose and set. Because stars always rise and set at the same celestial coordinates, navigators could hold an unswerving heading by tracking star paths throughout the night.",
+      "D": "During overcast daylight hours, wayfinders navigated by interpreting ocean swells. Unlike surface wind waves, swells are deep, rhythmic undulations generated by distant planetary weather systems thousands of kilometers away. By feeling the pitch, roll, and yaw of their double-hulled canoes as they intersected distinct swell patterns, master navigators could identify wave reflections bouncing off distant, unseen islands.",
+      "E": "Navigators also relied on biological indicators. The observation of land-nesting seabirds, such as terns and boobies, was a reliable sign that an island was within 30 to 50 nautical miles, as these birds fly out to fish in the morning and fly directly towards land before dusk."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Early European scholars believed Polynesians colonized Pacific islands through deliberate exploration.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states Europeans believed settlement was the accidental result of drifting fishermen."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Hawaii forms the northern boundary of the Polynesian triangle.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A mentions 'bounded by Hawaii to the north'."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Lapita navigators utilized iron sextants to measure the angles of the sun.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B explicitly states they navigated 'without magnetic compasses, sextants, or written charts'."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Polynesian voyagers built three-hulled catamarans for transoceanic voyages.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'double-hulled voyaging canoes', not three-hulled."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The star compass utilized by wayfinders divided the horizon into 32 sectors.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms the star compass 'divided the horizon into 32 distinct houses'."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "The Lapita people originally migrated from the southern tip of South America.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B discusses Lapita voyagers venturing eastward, but does not state they originated in South America."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "How did Polynesian wayfinders maintain course direction during cloudy daylight hours?",
+        "accepted_answers": [
+          "B",
+          "B) By feeling the rhythmic direction of deep ocean swells"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains navigators felt the pitch and roll of the canoe intersecting deep ocean swells.",
+        "options": [
+          "A) By measuring changes in ocean water salinity",
+          "B) By feeling the rhythmic direction of deep ocean swells",
+          "C) By trailing heavy stone sinkers behind the canoe",
+          "D) By following migrations of baleen whales"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "Why were land-nesting seabirds valuable to ancient Pacific navigators?",
+        "accepted_answers": [
+          "B",
+          "B) Their evening flight paths indicated the direction of nearby land"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explains birds fly directly towards land before dusk, signaling an island within 30-50 miles.",
+        "options": [
+          "A) They circled islands to warn humans of submerged reefs",
+          "B) Their evening flight paths indicated the direction of nearby land",
+          "C) Navigators captured and trained them to deliver messages",
+          "D) They guided schools of edible tuna directly towards canoes"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The indigenous settlement region of the Pacific is geographically termed the Polynesian ______.",
+        "accepted_answers": [
+          "triangle"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A introduces 'the remote Polynesian triangle'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The earliest ancestral voyagers who expanded eastward are known to archaeologists as the ______ people.",
+        "accepted_answers": [
+          "Lapita"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'Lapita voyagers ventured eastward'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Polynesian navigators used double-hulled ______ to cross thousands of miles of open ocean.",
+        "accepted_answers": [
+          "canoes",
+          "voyaging canoes"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B notes they traveled in 'double-hulled voyaging canoes'.",
+        "word_limit": 2
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The Polynesian star compass segmented the visual horizon into 32 distinct ______.",
+        "accepted_answers": [
+          "houses",
+          "sectors"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states it 'divided the horizon into 32 distinct houses'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Observing birds such as boobies and ______ signaled that land was within 50 nautical miles.",
+        "accepted_answers": [
+          "terns"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explicitly lists 'terns and boobies'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1008",
+    "title": "The Origins and Evolution of Human Language",
+    "topic": "Linguistics & Anthropology",
+    "category": "Education",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Language is widely acknowledged as the quintessential defining feature of the human species. While many animals possess complex communication systems—from the honeybee's waggle dance to the sophisticated alarm calls of vervet monkeys—none possess a recursive, open-ended grammatical system capable of expressing hypothetical ideas, past memories, and infinite concepts. How and when language emerged remains one of the greatest mysteries in human science.",
+      "B": "Two opposing evolutionary theories dominate linguistic anthropology. Continuity theorists, such as evolutionary biologist Charles Darwin, argued that human speech evolved gradually through incremental refinements of vocalizations and gestural signals already present in ancestral primates. In contrast, discontinuity theorists, notably linguist Noam Chomsky, propose that language appeared abruptly through a saltational genetic mutation—a rapid rewiring of the human brain that created the capacity for recursive syntax.",
+      "C": "Anatomical evidence provides crucial chronological clues. Spoken language requires precise neurological control over the vocal tract, tongue, and larynx. Fossil reconstructions demonstrate that the human larynx descended significantly lower in the throat compared to chimpanzees, creating an expanded pharyngeal cavity that permits a diverse repertoire of vowel sounds. However, this evolutionary adaptation incurs a dangerous penalty: an increased risk of choking on food.",
+      "D": "In 2001, geneticists identified the FOXP2 gene, often dubbed the 'language gene'. Individuals carrying mutations in FOXP2 exhibit severe speech and language deficits, struggling to coordinate the rapid facial movements required for fluent speech and displaying grammatical impairments. Comparative genomic analysis shows that modern humans possess two specific amino acid substitutions in FOXP2 that are absent in chimpanzees.",
+      "E": "Archaeological evidence further indicates that the emergence of complex syntactic language was intrinsically intertwined with symbolic culture. The sudden explosion of cave paintings, personal beads, and sophisticated burial rituals roughly 50,000 to 70,000 years ago during the Upper Paleolithic era strongly suggests that humans had developed rich symbolic language to transmit cultural concepts across generations."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Animal communication systems are capable of generating an infinite variety of recursive sentences.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states none possess a recursive grammatical system capable of expressing infinite concepts."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Noam Chomsky believes human language developed through slow, gradual primate vocal adaptations.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states Chomsky is a discontinuity theorist proposing language appeared abruptly through mutation."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "A descended larynx increases the biological risk of choking in human beings.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms this anatomical adaptation incurs an increased risk of choking."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Chimpanzees possess the exact same amino acid sequence in FOXP2 as humans.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states humans possess two specific amino acid substitutions absent in chimpanzees."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The FOXP2 gene was first sequenced at the University of Oxford in 2001.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states geneticists identified the gene in 2001, but does not name Oxford."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "The appearance of Paleolithic cave art coincided with the development of symbolic human communication.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes the explosion of cave paintings suggests humans developed symbolic language."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What anatomical change enabled modern humans to articulate a diverse range of vowel sounds?",
+        "accepted_answers": [
+          "B",
+          "B) The downward descent of the larynx into the throat"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains the human larynx descended significantly lower, creating an expanded pharyngeal cavity.",
+        "options": [
+          "A) The development of an enlarged auditory ear canal",
+          "B) The downward descent of the larynx into the throat",
+          "C) The complete loss of wisdom teeth",
+          "D) Increased bone density in the upper jaw"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "Individuals with mutated FOXP2 genes experience difficulties with:",
+        "accepted_answers": [
+          "B",
+          "B) Motor control of speech articulation and grammatical processing"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states patients struggle to coordinate rapid facial movements and display grammatical impairments.",
+        "options": [
+          "A) Distinguishing colors in dim lighting",
+          "B) Motor control of speech articulation and grammatical processing",
+          "C) Maintaining physical balance while walking",
+          "D) Digesting complex dietary proteins"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Linguist Noam ______ proposed that syntactic language appeared via an abrupt genetic change.",
+        "accepted_answers": [
+          "Chomsky"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B names 'linguist Noam Chomsky'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The lowering of the human ______ allowed the vocal tract to produce clear vowel sounds.",
+        "accepted_answers": [
+          "larynx"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains 'the human larynx descended significantly lower'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "In 2001, researchers discovered that mutations in the ______ gene caused profound language deficits.",
+        "accepted_answers": [
+          "FOXP2"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D identifies 'the FOXP2 gene'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Compared to chimpanzees, human FOXP2 contains two specific ______ acid substitutions.",
+        "accepted_answers": [
+          "amino"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D notes 'two specific amino acid substitutions'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "An explosion of cave paintings and symbolic culture occurred during the Upper ______ period.",
+        "accepted_answers": [
+          "Paleolithic"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E specifies 'during the Upper Paleolithic era'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1009",
+    "title": "Autonomous Vehicles and Future Urban Transit",
+    "topic": "Automotive & AI",
+    "category": "Technology",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "The rapid development of autonomous vehicle (AV) technology represents the most profound disruption to terrestrial transportation since the transition from horse-drawn carriages to internal combustion engines. Proponents envision a future of crash-free highways, slashed carbon emissions, and reclaimed urban real estate. Yet the engineering, ethical, and legislative hurdles facing full vehicular autonomy remain deeply formidable.",
+      "B": "The Society of Automotive Engineers (SAE) classifies vehicular autonomy into six distinct tiers, ranging from Level 0 (complete human control) to Level 5 (full autonomy under all environmental conditions without steering wheels or pedals). Today, high-end commercial vehicles operate at Level 2 or conditional Level 3, requiring human drivers to remain vigilant and ready to seize control when machine sensors encounter complex driving situations.",
+      "C": "Self-driving navigation relies on a complementary sensor fusion architecture. Light Detection and Ranging (LiDAR) emits millions of laser pulses per second to generate high-resolution 3D point-cloud maps of the vehicle's surroundings. Radar systems provide dependable obstacle detection through adverse meteorological conditions like heavy fog and snow, while high-definition cameras decipher traffic signals, lane markers, and pedestrian intent.",
+      "D": "Despite advanced sensors, the primary algorithmic challenge lies in edge cases—unusual, chaotic driving events that machine learning models have rarely encountered in training data. A pedestrian in an inflatable costume, a police officer gesturing with non-standard hand signals, or a mattress tumbling from a truck can confound autonomous vision systems.",
+      "E": "Urban planners also caution that autonomous vehicles could unintentionally exacerbate suburban sprawl and traffic congestion if deployed as private luxury cars rather than shared mobility fleets. If commuting becomes effortless, passengers may accept significantly longer commutes, flooding city street grids with empty 'zombie cars' cruising to avoid parking fees."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Level 5 autonomous vehicles require drivers to keep both hands on the steering wheel.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B defines Level 5 as full autonomy without steering wheels or pedals."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Most commercial autonomous cars currently available operate at Level 4 autonomy.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states today commercial vehicles operate at Level 2 or conditional Level 3."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Radar sensors perform reliably even in snow and heavy fog.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms radar provides dependable detection through heavy fog and snow."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "LiDAR sensors utilize sound waves to detect distant obstacles.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states LiDAR emits laser pulses (light), not sound waves."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The term 'edge cases' refers to routine driving situations on open highways.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D defines edge cases as unusual, chaotic driving events rarely seen in training."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Autonomous vehicles could increase urban traffic if used primarily as private vehicles.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E cautions they could exacerbate congestion if deployed as private luxury cars."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What is the primary function of LiDAR in an autonomous sensor suite?",
+        "accepted_answers": [
+          "B",
+          "B) Creating high-resolution 3D point-cloud maps of the surrounding environment"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C notes LiDAR emits laser pulses to generate high-resolution 3D point-cloud maps.",
+        "options": [
+          "A) Calculating fuel efficiency and battery depletion",
+          "B) Creating high-resolution 3D point-cloud maps of the surrounding environment",
+          "C) Monitoring the physiological alertness of human passengers",
+          "D) Encrypting vehicular communications against cyber attacks"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What phenomenon do urban planners fear might occur if parking fees remain high?",
+        "accepted_answers": [
+          "B",
+          "B) Empty autonomous cars circling city streets to avoid parking costs"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions empty 'zombie cars' cruising street grids to avoid parking fees.",
+        "options": [
+          "A) Cities banning all private bicycles",
+          "B) Empty autonomous cars circling city streets to avoid parking costs",
+          "C) Complete abandonment of underground subway networks",
+          "D) Immediate closure of commercial gas stations"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The Society of Automotive Engineers segments vehicular autonomy into ______ tiers.",
+        "accepted_answers": [
+          "6",
+          "six"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies 'six distinct tiers, ranging from Level 0 to Level 5'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Laser-based mapping technology used in self-driving navigation is abbreviated as ______.",
+        "accepted_answers": [
+          "LiDAR"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C introduces 'Light Detection and Ranging (LiDAR)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Rare and unpredictable road scenarios that confound AI algorithms are termed ______ cases.",
+        "accepted_answers": [
+          "edge"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D highlights 'the primary algorithmic challenge lies in edge cases'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Automated vision algorithms use cameras to decipher lane markers and ______ signals.",
+        "accepted_answers": [
+          "traffic"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C mentions cameras deciphering 'traffic signals'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Unoccupied autonomous vehicles driving continuously to evade parking costs are nicknamed ______ cars.",
+        "accepted_answers": [
+          "zombie"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E refers to empty 'zombie cars' cruising city streets.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1010",
+    "title": "The Neurobiology of Sleep and Memory Consolidation",
+    "topic": "Neurology & Health",
+    "category": "Sports & Health",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Throughout history, sleep was long dismissed as a passive state of biological dormancy—an unproductive shutdown of mental faculties. Modern neuroscience has overturned this misconception, demonstrating that the sleeping brain is engaged in a vibrant symphony of metabolic restoration, neurochemical cleansing, and profound memory consolidation.",
+      "B": "Human sleep is structured into repeating 90-minute ultradian cycles alternating between Non-Rapid Eye Movement (NREM) and Rapid Eye Movement (REM) sleep. NREM sleep is further subdivided into light sleep and slow-wave sleep (SWS), characterized by high-amplitude delta electroencephalogram oscillations. During SWS, the brain engages in a high-speed dialogue between the hippocampus and the neocortex.",
+      "C": "The dual-process hypothesis explains how memories are consolidated overnight. The hippocampus functions as a temporary, high-capacity scratchpad, absorbing daily experiences. However, its storage capacity is finite. During slow-wave sleep, memory traces are reactivated and systematically transferred from the fragile hippocampus to the permanent, durable storage network of the cerebral neocortex, clearing hippocampal space for fresh learning the following day.",
+      "D": "In contrast, REM sleep—the phase in which vivid dreams predominantly occur—is dedicated to emotional regulation and creative association. The brain synthesizes disparate memories into overarching cognitive schemas, enabling people to deduce hidden patterns and solve complex intellectual problems that eluded them while awake.",
+      "E": "Furthermore, sleep serves a vital neuro-protective function via the glymphatic system. Discovered in 2012 by Danish neuroscientist Maiken Nedergaard, the glymphatic system flushes cerebrospinal fluid through brain tissue during deep slow-wave sleep, washing away metabolic waste products including beta-amyloid plaques. Chronic sleep deprivation impedes this cleansing process, directly accelerating the risk of neurodegenerative diseases such as Alzheimer's."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Slow-wave sleep is characterized by low-amplitude beta brain waves.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B describes slow-wave sleep as characterized by high-amplitude delta oscillations."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Human sleep cycles repeat roughly every 90 minutes throughout the night.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms sleep is structured into repeating 90-minute cycles."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "The hippocampus serves as the permanent lifelong repository for episodic memories.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C defines the hippocampus as a temporary scratchpad; memories transfer to the neocortex."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "REM sleep plays a key role in emotional processing and integrative pattern recognition.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D confirms REM is dedicated to emotional regulation and synthesizing memories."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Maiken Nedergaard conducted her initial glymphatic research on human astronauts.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions Nedergaard discovered the system in 2012, but does not mention astronauts."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "The glymphatic cleansing mechanism operates most actively during slow-wave sleep.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states it flushes cerebrospinal fluid during deep slow-wave sleep."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph C, why must memories be transferred from the hippocampus to the neocortex?",
+        "accepted_answers": [
+          "B",
+          "B) Because the hippocampus possesses a finite temporary storage capacity"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains the hippocampus functions as a scratchpad whose storage capacity is finite.",
+        "options": [
+          "A) To prevent hippocampal brain cells from overheating",
+          "B) Because the hippocampus possesses a finite temporary storage capacity",
+          "C) Because the neocortex lacks the enzymes to process raw sensory input",
+          "D) To protect memories from being erased by dreaming"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What hazardous waste product is cleared from the brain by the glymphatic system?",
+        "accepted_answers": [
+          "B",
+          "B) Beta-amyloid plaques"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explicitly states it washes away metabolic waste including beta-amyloid plaques.",
+        "options": [
+          "A) Lactic acid crystals",
+          "B) Beta-amyloid plaques",
+          "C) Carbon monoxide residues",
+          "D) Excess serotonin molecules"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Sleep cycles alternate between Non-Rapid Eye Movement and ______ Eye Movement sleep.",
+        "accepted_answers": [
+          "Rapid"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B refers to 'Rapid Eye Movement (REM) sleep'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Slow-wave sleep is defined on EEG monitors by high-amplitude ______ oscillations.",
+        "accepted_answers": [
+          "delta"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'high-amplitude delta electroencephalogram oscillations'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "During sleep, memory traces are relocated from the temporary hippocampus to the durable ______.",
+        "accepted_answers": [
+          "neocortex",
+          "cerebral neocortex"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C specifies transferring memories to the 'cerebral neocortex'.",
+        "word_limit": 2
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The fluid transport system that cleanses waste from the sleeping brain is the ______ system.",
+        "accepted_answers": [
+          "glymphatic"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E introduces 'the glymphatic system'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Chronic sleep deprivation accelerates the buildup of proteins linked to ______ disease.",
+        "accepted_answers": [
+          "Alzheimer's",
+          "Alzheimers"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E warns of neurodegenerative diseases such as 'Alzheimer's'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1011",
+    "title": "Megacities and Sustainable Urban Architecture",
+    "topic": "Urban Planning",
+    "category": "Recent Actual Tests",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "In 1950, only two metropolitan regions on Earth qualified as megacities (urban agglomerations exceeding 10 million inhabitants): New York and Tokyo. Today, there are more than 33 megacities globally, with the vast majority situated in the developing economies of Asia, Africa, and Latin America. As urban density reaches unprecedented heights, civil engineers and architects are reimagining architectural forms to mitigate environmental degradation.",
+      "B": "A critical environmental consequence of high-density urbanization is the Urban Heat Island (UHI) effect. Concrete, asphalt, and dark masonry absorb incoming solar radiation during daylight hours and re-radiate it as thermal heat at night. Coupled with residual heat expelled by automobile air conditioning and mechanical ventilation, megacities frequently experience localized temperatures 3 to 7 degrees Celsius warmer than adjacent rural environs.",
+      "C": "To combat the UHI phenomenon, architects are pioneering biophilic architecture and green building envelopes. In Singapore, developers are legally mandated to replace green space displaced by building footprints with high-rise vertical gardens, extensive green roofs, and vegetated terraces. Foliage reduces building surface temperatures via evapotranspiration, while acting as an effective acoustic barrier against ambient street noise.",
+      "D": "Sustainable high-rises also employ passive ventilation architectures. The traditional hermetically sealed glass office tower requires immense amounts of electrical energy to power artificial cooling systems. In contrast, modern bioclimatic skyscrapers incorporate aerodynamic spiraling facades and central aerodynamic atriums that harness natural stack effects, funneling cool ambient air through building interiors without mechanical fans.",
+      "E": "Ultimately, sustainable urbanism demands polycentric transit-oriented design. Sprawling megacities like Jakarta and Cairo are paralyzed by traffic gridlock because their design forces millions of citizens to commute daily into a single commercial core. Polycentric development divides the metropolis into autonomous, mixed-use sub-centers where residential, commercial, and educational needs coexist within walking distance."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "In 1950, London was designated as one of the world's first two megacities.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states in 1950 only New York and Tokyo qualified as megacities."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Urban Heat Islands can cause city temperatures to exceed surrounding rural areas by several degrees.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms temperatures are 3 to 7 degrees Celsius warmer."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Singapore requires construction developers to replace ground greenery with vertical vegetation.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms developers are legally mandated to replace green space."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Green roofs increase the amount of ambient noise entering building interiors.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states foliage acts as an effective acoustic barrier against street noise."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Jakarta introduced a high-speed monorail system in 2018 to combat traffic gridlock.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes Jakarta is paralyzed by traffic gridlock, but mentions no monorail."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Bioclimatic towers rely entirely on electric cooling fans to circulate indoor air.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains they harness natural stack effects without mechanical fans."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What process enables vegetated building facades to lower ambient urban temperatures?",
+        "accepted_answers": [
+          "B",
+          "B) Evapotranspiration of moisture through plant leaves"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states foliage reduces surface temperatures via evapotranspiration.",
+        "options": [
+          "A) Photosynthetic carbon sequestration",
+          "B) Evapotranspiration of moisture through plant leaves",
+          "C) Electrostatic dust precipitation",
+          "D) Magnetic deflection of ultraviolet radiation"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What is the primary objective of polycentric urban planning?",
+        "accepted_answers": [
+          "B",
+          "B) Creating self-contained municipal hubs to reduce centralized commuter travel"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explains it divides the metropolis into autonomous sub-centers within walking distance.",
+        "options": [
+          "A) Banning private vehicles from peripheral expressways",
+          "B) Creating self-contained municipal hubs to reduce centralized commuter travel",
+          "C) Constructing identical residential towers across city sectors",
+          "D) Relocating all universities outside metropolitan borders"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "An urban agglomeration containing over 10 million residents is classified as a ______.",
+        "accepted_answers": [
+          "megacity"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A defines megacities as agglomerations exceeding 10 million inhabitants.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The phenomenon where cities retain excessive daytime solar heat is known as the Urban Heat ______ effect.",
+        "accepted_answers": [
+          "Island"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B introduces the 'Urban Heat Island (UHI) effect'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Plant-covered green building envelopes lower surface heat through a biological process called ______.",
+        "accepted_answers": [
+          "evapotranspiration"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C notes cooling occurs 'via evapotranspiration'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Bioclimatic skyscrapers take advantage of natural air flow driven by the ______ effect.",
+        "accepted_answers": [
+          "stack"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains towers harness natural 'stack effects'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Urban designs that decentralize cities into multiple self-contained nodes are termed ______.",
+        "accepted_answers": [
+          "polycentric"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E advocates for 'polycentric transit-oriented design'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1012",
+    "title": "Biomimicry: Nature's Design Blueprint",
+    "topic": "Bionics & Engineering",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Nature has been conducting continuous research and development for 3.8 billion years. Through the unyielding crucible of natural selection, organisms have evolved remarkably elegant, low-energy solutions to complex physical, chemical, and structural challenges. Biomimicry—the practice of emulating biological models, systems, and elements to solve human problems—is transforming modern industrial design.",
+      "B": "One of the earliest and most celebrated triumphs of biomimicry was the invention of Velcro. In 1941, Swiss electrical engineer George de Mestral returned from an alpine hunting excursion to find his dog's coat covered in burdock burrs. Inspecting the burrs under a microscope, de Mestral observed hundreds of microscopic hooks that tenaciously latched onto the tiny fabric loops of his trousers, inspiring the revolutionary two-sided hook-and-loop fastener.",
+      "C": "In high-speed transportation, biomimetic design famously rescued Japan's Shinkansen bullet train. When exiting tunnels at speeds exceeding 300 kilometers per hour, the train compressed air ahead of it, generating a thunderous sonic boom that rattled windows in residential suburbs. Engineer Eiji Nakatsu, an avid birder, observed that the kingfisher bird dives from air into dense water with virtually no splash thanks to its streamlined, wedge-shaped beak. By redesigning the train's nose to emulate the kingfisher's beak, engineers eliminated the sonic boom, reduced electricity consumption by 15 percent, and increased travel speed.",
+      "D": "In architecture, biological thermal regulation inspired Zimbabwe's Eastgate Centre in Harare. Designed by architect Mick Pearce, this large shopping and office complex has no conventional air conditioning system. Pearce modeled the building on the passive cooling chimneys of indigenous termite mounds. Termites constantly open and seal ventilation shafts, maintaining an unvarying internal nest temperature of 30 degrees Celsius despite desert exterior swings from freezing night to scorching day.",
+      "E": "At the nanoscale, the leaves of the sacred lotus plant exhibit self-cleaning superhydrophobicity. Microscopic wax papillae create a rough surface that prevents water droplets from spreading; instead, water balls up and rolls off, collecting dirt particles with it. Chemical engineers have synthesized the 'lotus effect' into self-cleaning exterior facade paints and water-repellent fabrics."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "George de Mestral was inspired to invent Velcro after examining cactus spines.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states he was inspired by burdock burrs, not cactus spines."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The original Shinkansen train produced loud sonic booms when exiting tunnels.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms the train compressed air and generated a thunderous sonic boom."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Eiji Nakatsu based the aerodynamic train redesign on the beak of the kingfisher.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C notes Nakatsu redesigned the nose to emulate the kingfisher's beak."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "The Eastgate Centre in Harare uses zero electrical energy for interior lighting.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions it has no conventional air conditioning, but does not state lighting uses zero electricity."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Indigenous termite mounds maintain a fluctuating temperature that mirrors desert weather.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains mounds maintain an unvarying nest temperature of 30 degrees Celsius."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Water droplets roll off lotus leaves because the leaf surface is completely smooth.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states microscopic wax papillae create a rough surface, causing water to roll off."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What engineering benefit was achieved by redesigning the Shinkansen train nose?",
+        "accepted_answers": [
+          "B",
+          "B) The sonic boom was eliminated and energy use dropped by 15 percent"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains engineers eliminated the sonic boom and reduced electricity consumption by 15 percent.",
+        "options": [
+          "A) Passenger seating capacity increased by 30 percent",
+          "B) The sonic boom was eliminated and energy use dropped by 15 percent",
+          "C) The train could operate safely across submerged floodwaters",
+          "D) Manufacturing costs of train steel were halved"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "How does the 'lotus effect' achieve self-cleaning surface properties?",
+        "accepted_answers": [
+          "B",
+          "B) By allowing spherical water droplets to roll off while picking up dirt"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explains water balls up and rolls off, collecting dirt particles with it.",
+        "options": [
+          "A) By absorbing solar heat to incinerate organic dust",
+          "B) By allowing spherical water droplets to roll off while picking up dirt",
+          "C) By secreting natural acidic detergents",
+          "D) By creating an electrical charge that repels bacteria"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The design philosophy of imitating biological mechanisms is termed ______.",
+        "accepted_answers": [
+          "biomimicry"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A introduces 'Biomimicry—the practice of emulating biological models'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "George de Mestral invented the fastener known worldwide as ______.",
+        "accepted_answers": [
+          "Velcro"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'the invention of Velcro'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "The nose of Japan's bullet train was redesigned to mimic the beak of the ______ bird.",
+        "accepted_answers": [
+          "kingfisher"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C specifies 'the kingfisher bird'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Architect Mick Pearce modeled the Eastgate Centre's passive ventilation on ______ mounds.",
+        "accepted_answers": [
+          "termite"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states Pearce modeled it on 'termite mounds'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "The self-cleaning water-repellent property of lotus leaves is known as super-______.",
+        "accepted_answers": [
+          "hydrophobicity"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E refers to 'self-cleaning superhydrophobicity'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1013",
+    "title": "The Remote Work Revolution and Spatial Economics",
+    "topic": "Economics & Labor",
+    "category": "Economics & Business",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "The widespread adoption of remote telework represents one of the most radical labor market shifts since the Industrial Revolution first congregated workers inside centralized factories. Catalyzed by ubiquitous broadband, collaboration software, and changing cultural priorities, the decoupling of economic productivity from geographic physical presence is reshaping corporate structures, regional economies, and real estate markets globally.",
+      "B": "From an employer perspective, remote work presents compelling fiscal advantages alongside managerial complexities. Companies can dramatically reduce overhead expenses by downsizing expensive commercial office leases in metropolitan downtowns. Furthermore, location-agnostic hiring enables enterprises to source specialized talent from global labor pools rather than competing within a hyper-localized radius.",
+      "C": "However, remote working exposes organizations to severe collaborative friction. Spontaneous creative collisions—the serendipitous hallway conversations that drive breakthrough innovations—are notoriously difficult to replicate across digital meeting channels. Additionally, managerial practices that rely on visual presence as a proxy for productivity struggle to adapt to asynchronous, results-oriented evaluation models.",
+      "D": "In spatial economics, the dispersion of high-earning knowledge workers has catalyzed the 'donut effect' across major cities. Workers migrating away from dense city cores into suburban rings or regional secondary towns have prompted commercial office vacancy rates to spike in cities like New York, London, and San Francisco, while driving residential housing prices upward in formerly quiet commuter towns.",
+      "E": "Economists predict that the ultimate equilibrium will not be 100 percent remote or full-time office work, but a structured hybrid paradigm. In this model, physical offices transition from row-by-row cubicle storage into communal collaboration hubs where teams gather deliberately for creative brainstorming, social cohesion, and strategic planning, while focused solitary execution occurs at home."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "The Industrial Revolution initially separated workers into independent remote units.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states the Industrial Revolution congregated workers inside centralized factories."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Remote employment allows corporations to reduce commercial office leasing costs.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states companies can downsize expensive commercial office leases."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Spontaneous hallway interactions can be effortlessly duplicated on digital video platforms.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states serendipitous creative collisions are notoriously difficult to replicate digitally."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "The 'donut effect' describes population growth in dense city centers accompanied by suburban decline.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains it involves migration away from city cores into suburban rings."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "London's municipal government introduced taxes on empty office desks in 2022.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions rising office vacancies in London, but gives no information on desk taxes."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Economists anticipate that the dominant future workplace model will be hybrid.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states economists predict the ultimate equilibrium will be a structured hybrid paradigm."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph B, what is a major hiring advantage for remote-first companies?",
+        "accepted_answers": [
+          "B",
+          "B) Ability to recruit specialized talent from a global labor pool"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B notes location-agnostic hiring allows sourcing specialized talent globally.",
+        "options": [
+          "A) Freedom from complying with domestic employment laws",
+          "B) Ability to recruit specialized talent from a global labor pool",
+          "C) Automatic reduction in corporate income tax rates",
+          "D) Lower initial onboarding and computer equipment expenses"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "How is the physical office expected to evolve under the hybrid work model?",
+        "accepted_answers": [
+          "B",
+          "B) Transitioning into collaboration hubs for creative teamwork"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes offices transition into communal collaboration hubs for brainstorming.",
+        "options": [
+          "A) Transforming into personal individual sleep quarters",
+          "B) Transitioning into collaboration hubs for creative teamwork",
+          "C) Being dismantled into prefabricated storage units",
+          "D) Converting into automated server warehouses"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The shift of workers away from city centers to outer suburbs is known as the ______ effect.",
+        "accepted_answers": [
+          "donut"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions 'the donut effect across major cities'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Remote work eliminates geographic barriers, allowing companies to recruit from a global ______ pool.",
+        "accepted_answers": [
+          "talent",
+          "labor"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies sourcing 'specialized talent from global labor pools'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Informal serendipitous discussions that foster creative ideas are termed creative ______.",
+        "accepted_answers": [
+          "collisions"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C refers to 'spontaneous creative collisions'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Under hybrid work arrangements, tasks requiring quiet individual focus typically occur at ______.",
+        "accepted_answers": [
+          "home"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions 'focused solitary execution occurs at home'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "The workplace model combining in-office collaboration and telework is known as the ______ model.",
+        "accepted_answers": [
+          "hybrid"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E introduces 'a structured hybrid paradigm'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1014",
+    "title": "Harnessing Geothermal Energy from the Earth's Crust",
+    "topic": "Clean Energy",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Deep within the Earth's interior lies an unimaginably vast reservoir of thermal energy. Generated by radioactive decay of minerals in the mantle and residual primordial heat from planetary accretion, this subterranean energy—known as geothermal energy—represents one of the cleanest, most baseload-reliable renewable energy sources available to human civilization.",
+      "B": "Unlike solar and wind power, which suffer from meteorological intermittency and diurnal fluctuations, geothermal power plants generate steady, uninterrupted electricity 24 hours a day, achieving capacity factors exceeding 90 percent. Traditional geothermal systems tap into naturally occurring hydrothermal reservoirs—underground chambers where water is trapped in permeable rock and heated to temperatures exceeding 200 degrees Celsius by proximity to magma plumes.",
+      "C": "Production wells drill deep into these reservoirs to extract pressurized hot water and steam. At the surface, the high-pressure steam expands through turbine blades, spinning an electric generator. Once condensed back into liquid water, the fluid is pumped back into the subterranean formation via injection wells. This closed-loop reinjection prevents surface water depletion and maintains subsurface reservoir pressure.",
+      "D": "Historically, geothermal deployment was constrained to volcanically active tectonic plate boundaries, such as the Pacific 'Ring of Fire', Iceland, and the East African Rift. However, Enhanced Geothermal Systems (EGS) are breaking these geographical chains. EGS uses directional drilling and hydraulic stimulation to fracture deep, hot crystalline granite rock in non-volcanic regions, creating artificial permeability where water can be circulated and extracted.",
+      "E": "Despite its immense promise, geothermal expansion faces steep financial and environmental hurdles. Upfront exploratory drilling carries substantial financial risk, as drilling exploratory wells kilometers deep can cost millions of dollars without guaranteeing productive thermal flow. Additionally, hydraulic stimulation in EGS projects must be carefully calibrated to avoid triggering induced micro-seismicity or minor earthquakes."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Geothermal power output fluctuates dramatically depending on surface weather conditions.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states unlike solar and wind, geothermal is baseload-reliable and uninterrupted."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Capacity factors for geothermal power plants can surpass 90 percent.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms capacity factors exceed 90 percent."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Reinjecting condensed water back into underground rock helps sustain subterranean pressure.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms reinjection maintains subsurface reservoir pressure."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Enhanced Geothermal Systems (EGS) can only operate near active volcanic plate margins.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states EGS creates artificial permeability in non-volcanic regions."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Iceland generates 100 percent of its electricity from coal-fired power plants.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions Iceland as an active tectonic zone, but mentions nothing about coal plants."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Exploratory geothermal drilling is guaranteed to locate productive commercial steam.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states drilling carries financial risk without guaranteeing productive flow."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What major advantage does geothermal power offer over solar and wind energy?",
+        "accepted_answers": [
+          "B",
+          "B) Continuous baseload power production independent of weather conditions"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B notes geothermal generates uninterrupted electricity 24 hours a day without intermittency.",
+        "options": [
+          "A) Lower total cost of initial steel and copper raw materials",
+          "B) Continuous baseload power production independent of weather conditions",
+          "C) Zero requirement for underground geological surveys",
+          "D) Ability to be installed in suburban basements without drilling"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What environmental concern is associated with hydraulic stimulation in EGS projects?",
+        "accepted_answers": [
+          "B",
+          "B) Triggering minor induced earthquakes or micro-seismicity"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E highlights the risk of triggering induced micro-seismicity or minor earthquakes.",
+        "options": [
+          "A) Atmospheric depletion of stratospheric ozone",
+          "B) Triggering minor induced earthquakes or micro-seismicity",
+          "C) Rapid evaporation of ocean seawater",
+          "D) Uncontrolled chemical contamination of topsoil"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Subterranean heat generated inside the Earth is officially known as ______ energy.",
+        "accepted_answers": [
+          "geothermal"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A introduces 'subterranean energy—known as geothermal energy'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Conventional geothermal systems extract boiling fluids from underground ______ reservoirs.",
+        "accepted_answers": [
+          "hydrothermal"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies 'naturally occurring hydrothermal reservoirs'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Condensed geothermal water is returned to the ground through ______ wells.",
+        "accepted_answers": [
+          "injection"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states fluid is pumped back 'via injection wells'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Advanced geothermal technology that creates artificial rock fractures is abbreviated as ______.",
+        "accepted_answers": [
+          "EGS"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D introduces 'Enhanced Geothermal Systems (EGS)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "A potential seismic risk associated with rock fracturing in EGS is induced micro-______.",
+        "accepted_answers": [
+          "seismicity"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E cautions against 'induced micro-seismicity'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1015",
+    "title": "Avian Migration and Magnetoreception",
+    "topic": "Ornithology",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Every autumn, billions of birds embark on epic transcontinental journeys spanning thousands of miles. The Arctic tern undertakes the most extraordinary migration of all, traveling over 70,000 kilometers annually from breeding grounds in the Arctic Circle to Antarctica and back. For decades, the biological navigation systems that allow migratory birds to traverse featureless oceans with pinpoint precision confounded scientists.",
+      "B": "Modern research shows that migratory birds do not rely on a single navigation tool, but rather deploy a redundant, multi-sensory guidance system. Day-migrating species utilize a solar compass, compensating for the sun's east-to-west arc across the sky via internal circadian biological clocks. Nocturnal migrants, including warblers and thrushes, learn the patterns of stellar constellations rotating around Polaris (the North Star), keeping bearings by observing starry skies.",
+      "C": "However, the most astonishing sensory faculty possessed by birds is magnetoreception—the ability to perceive Earth's invisible geomagnetic field. Biologists long debated whether magnetoreception was mediated by microscopic crystals of magnetite in avian beaks or by light-dependent quantum mechanisms in the eye.",
+      "D": "Recent biophysical experiments provide compelling evidence for the quantum radical-pair mechanism. In the avian retina, specialized blue-light photoreceptor proteins called cryptochromes (specifically cryptochrome 4, or Cry4) absorb photons of light. This absorption triggers a rapid transfer of electrons, generating an entangled quantum radical pair whose spin states are exquisitely sensitive to the inclination and intensity of Earth's geomagnetic field lines.",
+      "E": "Through this mechanism, migratory birds essentially 'see' Earth's magnetic field as subtle modulations of light and dark superimposed over their visual field. Furthermore, birds integrate this magnetic compass with olfactory cues: as they approach within dozens of miles of breeding sites, they recognize familiar regional scent maps to pinpoint their exact nesting sites."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Arctic terns complete a round-trip migration exceeding 70,000 kilometers each year.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A confirms they travel over 70,000 kilometers annually."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Birds that migrate during the day use the sun without needing internal circadian clocks.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states they compensate for solar movement via internal circadian biological clocks."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Night-migrating birds navigate by observing the rotation of constellations around Polaris.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms nocturnal migrants learn patterns rotating around Polaris."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Cryptochromes are photoreceptor proteins located in the bird's beak.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D states cryptochromes are located in the avian retina (eye), not the beak."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Cryptochrome 4 was first extracted from Arctic tern feathers in 1985.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D discusses cryptochrome 4, but mentions no 1985 feather extraction."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Birds can combine magnetic navigational data with olfactory scent cues.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E confirms birds integrate magnetic compass with olfactory cues."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "According to Paragraph D, how does the protein cryptochrome 4 initiate magnetic detection?",
+        "accepted_answers": [
+          "B",
+          "B) By absorbing blue photons of light to generate entangled quantum radical pairs"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains light absorption generates an entangled quantum radical pair sensitive to geomagnetic field lines.",
+        "options": [
+          "A) By producing acoustic clicks that echo off land masses",
+          "B) By absorbing blue photons of light to generate entangled quantum radical pairs",
+          "C) By releasing iron ions directly into the bloodstream",
+          "D) By altering the physical curvature of the bird's cornea"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What sensory cue helps birds pinpoint their exact nesting territory during the final miles of flight?",
+        "accepted_answers": [
+          "B",
+          "B) Regional olfactory scent maps"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions recognizing familiar regional scent maps to pinpoint exact nesting sites.",
+        "options": [
+          "A) Infrasonic vibrations from underground rivers",
+          "B) Regional olfactory scent maps",
+          "C) Reflection of moonlight off tree bark",
+          "D) Ambient changes in air pressure"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The species that undertakes the longest annual migration on Earth is the Arctic ______.",
+        "accepted_answers": [
+          "tern"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A highlights 'The Arctic tern'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The biological capability to sense Earth's magnetic field is termed ______.",
+        "accepted_answers": [
+          "magnetoreception"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C introduces 'magnetoreception—the ability to perceive Earth's geomagnetic field'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Nocturnal migratory birds track stellar constellations rotating around the star ______.",
+        "accepted_answers": [
+          "Polaris",
+          "North Star"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies 'Polaris (the North Star)'.",
+        "word_limit": 2
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The blue-light photoreceptor protein involved in quantum magnetoreception is ______ 4.",
+        "accepted_answers": [
+          "cryptochrome",
+          "Cry"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D names 'cryptochrome 4, or Cry4'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "In the final approach to nesting grounds, birds rely on ______ cues to locate specific nests.",
+        "accepted_answers": [
+          "olfactory",
+          "scent"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E notes birds integrate their compass with 'olfactory cues'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1016",
+    "title": "Early Childhood Bilingualism and Cognitive Plasticity",
+    "topic": "Cognitive Science",
+    "category": "Education",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Throughout much of the twentieth century, educational orthodoxy in many Western nations warned that exposing young children to more than one language would result in linguistic confusion, cognitive developmental delays, and impaired academic achievement. Parents were frequently urged to speak exclusively in the societal language at home. Today, rigorous psycholinguistic research has thoroughly overturned these xenophobic myths.",
+      "B": "Far from being disadvantaged, bilingual children consistently demonstrate measurable advantages in executive functioning—the suite of higher-order cognitive processes governed by the prefrontal cortex. Executive function encompasses inhibitory control (the ability to suppress irrelevant distractions), cognitive flexibility (shifting focus between changing task rules), and working memory.",
+      "C": "The neurological explanation lies in the fact that both languages remain permanently active in the bilingual brain. When an English-Spanish bilingual hears a sentence in English, the Spanish lexicon is not shut down; rather, it is actively competing for activation. Consequently, the brain's executive control system is continually engaged in suppressing the non-target language, providing a constant mental workout that enhances cognitive resilience.",
+      "D": "In standard psychological assessments, such as the dimensional change card sort test, bilingual youngsters routinely outperform monolingual peers in switching sorting rules (such as transitioning from sorting cards by color to sorting by shape). Furthermore, bilingual children display heightened metalinguistic awareness: an intuitive understanding of the arbitrary, symbolic nature of linguistic labels, recognizing earlier that an object's physical identity is independent of the word used to name it.",
+      "E": "The lifelong benefits of early multilingual exposure extend well into old age. Neuro-epidemiological studies led by Dr. Ellen Bialystok demonstrate that life-long bilingualism creates cognitive reserve, delaying the onset of clinical symptoms of Alzheimer's disease and vascular dementia by an average of four to five years compared to monolinguals with equivalent neuropathology."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Twentieth-century educators widely encouraged parents to teach infants multiple languages.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A explains educators warned multiple languages caused developmental delays."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The prefrontal cortex governs higher-order executive functioning.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms executive functioning is governed by the prefrontal cortex."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "In a bilingual person's brain, the inactive language is turned completely off.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states both languages remain permanently active and compete for activation."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Dr. Ellen Bialystok studied bilingual children exclusively in rural Australia.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions Bialystok's research, but mentions nothing about rural Australia."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Lifelong bilingualism has been shown to delay clinical dementia symptoms by 4 to 5 years.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states it delays clinical symptoms by an average of four to five years."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Bilingualism completely cures physical brain pathology associated with Alzheimer's.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states it delays symptoms compared to patients with equivalent neuropathology, not that it cures pathology."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "What biological dynamic explains why bilingual individuals exhibit superior executive control?",
+        "accepted_answers": [
+          "B",
+          "B) Continuous mental effort required to suppress the competing non-target language"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains the executive control system is continually engaged in suppressing the non-target language.",
+        "options": [
+          "A) Higher levels of dopamine production in the occipital lobe",
+          "B) Continuous mental effort required to suppress the competing non-target language",
+          "C) Reduced blood pressure in cerebral blood vessels",
+          "D) Enlarged vocal vocal cord muscles developed in early infancy"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What is meant by the term 'metalinguistic awareness' in bilingual children?",
+        "accepted_answers": [
+          "B",
+          "B) An understanding that words are arbitrary symbols separate from physical objects"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D defines it as an understanding of the arbitrary nature of linguistic labels.",
+        "options": [
+          "A) The ability to translate legal contracts between foreign languages",
+          "B) An understanding that words are arbitrary symbols separate from physical objects",
+          "C) The talent for mimicking regional accents with perfect pitch",
+          "D) An instinctive recall of grammatical rules without attending school"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The suite of mental skills managing attention and working memory is called ______ function.",
+        "accepted_answers": [
+          "executive"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B refers to 'executive functioning'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Executive cognitive processes are anatomically governed by the ______ cortex.",
+        "accepted_answers": [
+          "prefrontal"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies 'governed by the prefrontal cortex'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "The card sort test evaluating cognitive flexibility is termed the dimensional ______ card sort test.",
+        "accepted_answers": [
+          "change"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions 'the dimensional change card sort test'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Understanding that linguistic names are arbitrary labels is termed ______ awareness.",
+        "accepted_answers": [
+          "metalinguistic"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D introduces 'metalinguistic awareness'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Cognitive resilience that delays dementia onset in elderly bilinguals is called cognitive ______.",
+        "accepted_answers": [
+          "reserve"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explains 'life-long bilingualism creates cognitive reserve'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1017",
+    "title": "Global Freshwater Shortages and Seawater Desalination",
+    "topic": "Hydrology & Infrastructure",
+    "category": "Technology & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "Water covers more than 70 percent of Earth's surface, yet over 97 percent of that water is saline and unusable for human consumption or conventional crop agriculture. Of the remaining 3 percent of global freshwater, two-thirds is trapped in polar ice caps and alpine glaciers. As global population climbs towards 10 billion and groundwater aquifers become exhausted, seawater desalination is transitioning from an emergency measure into essential municipal infrastructure.",
+      "B": "Historically, desalination relied on thermal distillation: heating seawater until it vaporizes into pure steam and condensing it into liquid water. While effective, thermal distillation methods—such as multi-stage flash distillation—are prohibitively energy-intensive, requiring immense combustion of fossil fuels to boil seawater.",
+      "C": "The game-changing technological shift occurred with the commercial development of reverse osmosis (RO). In an RO desalination facility, seawater is pumped under tremendous mechanical pressure (often exceeding 60 to 80 atmospheres) against a synthetic semipermeable membrane composed of thin-film polyamide. The microscopic pores of the membrane allow water molecules to pass through while physically blocking larger dissolved sodium and chloride ions.",
+      "D": "Modern energy recovery devices (ERDs) have dramatically decreased the electrical consumption of reverse osmosis. Pressure exchangers transfer the kinetic hydraulic energy from the outgoing high-pressure reject stream directly to the incoming raw seawater, reducing electricity demand by up to 60 percent. Desalination costs have plummeted from over 3 dollars per cubic meter in the 1990s to under 60 cents in modern mega-plants.",
+      "E": "Despite engineering advancements, desalination generates severe ecological concerns regarding brine disposal. For every liter of potable water produced, approximately one liter of hypersaline brine—laden with chemical pre-treatment antiscalants and heavy metal residues—is discharged back into the sea. If not dispersed through offshore underwater diffusers, dense brine sinks to the seabed, creating hypoxic dead zones that suffocate benthic marine life."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Less than one percent of total global water is readily accessible liquid freshwater.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A notes 97% is saline and two-thirds of the remaining 3% is trapped in ice, leaving under 1% accessible."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Thermal distillation consumes significantly less energy than reverse osmosis.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B explains thermal distillation methods are prohibitively energy-intensive compared to RO."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Reverse osmosis membranes are primarily made of natural cellulose fibers.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states membranes are composed of thin-film polyamide."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Energy recovery devices recycle hydraulic pressure from the outgoing brine stream.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D confirms pressure exchangers transfer energy from outgoing reject stream to incoming seawater."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The world's largest desalination facility is located in Saudi Arabia.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D mentions modern mega-plants, but does not name the largest facility's country."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Hypersaline brine discharged into oceans tends to float near surface waters.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states dense brine sinks to the seabed."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "How do reverse osmosis membranes separate salt from seawater?",
+        "accepted_answers": [
+          "B",
+          "B) By forcing water molecules through microscopic pores that physically block sodium ions"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains microscopic pores allow water through while blocking dissolved sodium and chloride ions.",
+        "options": [
+          "A) By boiling the water into steam through electric heating coils",
+          "B) By forcing water molecules through microscopic pores that physically block sodium ions",
+          "C) By utilizing magnetic fields to repel dissolved metal minerals",
+          "D) By cultivating biological bacteria that consume salt crystals"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What ecological danger is posed by unmitigated brine disposal onto the seabed?",
+        "accepted_answers": [
+          "B",
+          "B) Creation of oxygen-depleted hypoxic dead zones that suffocate benthic organisms"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E warns dense brine creates hypoxic dead zones that suffocate benthic marine life.",
+        "options": [
+          "A) Proliferation of predatory jellyfish blooms in shallow coastal water",
+          "B) Creation of oxygen-depleted hypoxic dead zones that suffocate benthic organisms",
+          "C) Rapid cooling of tropical ocean currents",
+          "D) Acceleration of coral calcification across deep ocean trenches"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The vast majority of Earth's freshwater is locked in alpine glaciers and polar ice ______.",
+        "accepted_answers": [
+          "caps"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A specifies 'polar ice caps and alpine glaciers'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The modern membrane-based desalination process is termed reverse ______.",
+        "accepted_answers": [
+          "osmosis"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C introduces 'reverse osmosis (RO)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Synthetic membranes in RO plants are predominantly fabricated from thin-film ______.",
+        "accepted_answers": [
+          "polyamide"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C specifies 'thin-film polyamide'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Energy consumption in RO is mitigated by using pressure ______ to transfer kinetic force.",
+        "accepted_answers": [
+          "exchangers"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D notes 'Pressure exchangers transfer the kinetic hydraulic energy'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "The concentrated hypersaline byproduct produced by desalination is called ______.",
+        "accepted_answers": [
+          "brine"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E discusses 'hypersaline brine' disposal.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1018",
+    "title": "The Decipherment of the Rosetta Stone",
+    "topic": "Linguistics & History",
+    "category": "History & Culture",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "For more than a thousand years, the hieroglyphic script of ancient Egypt remained an impenetrable enigma. Following the closure of pagan temples by Roman Emperor Theodosius I in the late 4th century AD, knowledge of how to read hieroglyphs vanished from human memory. European Renaissance scholars mistakenly believed the symbols were purely mystical ideograms representing philosophical ideas rather than phonetic sounds of a spoken language.",
+      "B": "The breakthrough came entirely by accident in July 1799 during Napoleon Bonaparte's military expedition in Egypt. While excavating fortifications near the port city of Rashid (Rosetta), French engineering officer Pierre-Francois Bouchard discovered a broken slab of granodiorite inscribed with three distinct scripts. The top section was inscribed in ancient Egyptian hieroglyphs; the middle section in Demotic (a cursive script of daily Egyptian administration); and the bottom section in ancient Greek.",
+      "C": "Because ancient Greek was well known to European classicists, the Rosetta Stone provided an invaluable bilingual key. The Greek text revealed that the inscription was a royal decree issued at Memphis in 196 BC by a council of priests to commemorate the coronation of King Ptolemy V Epiphanes. Scholars realized that all three inscriptions contained the identical decree.",
+      "D": "English polymath Thomas Young made the first critical conceptual breakthrough. By analyzing repeated clusters of hieroglyphs enclosed within an oval border—known as a cartouche—Young correctly deduced that these enclosed symbols spelled out the phonetic name of foreign Pharaoh 'Ptolemy'. However, Young clinging to the traditional belief that hieroglyphs were only phonetic when spelling non-Egyptian foreign names.",
+      "E": "The ultimate decipherment fell to French linguist Jean-Francois Champollion. In September 1822, after meticulously comparing cartouches from Rosetta and an obelisk from Philae containing the names 'Ptolemy' and 'Cleopatra', Champollion discovered that Egyptian hieroglyphic writing was a hybrid system: simultaneously figurative, symbolic, and phonetic in the very same text. His realization unlocked millennia of Egyptian history, literature, and culture."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Knowledge of Egyptian hieroglyphs was preserved continuously in Christian monasteries.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states knowledge vanished following the closure of temples in the 4th century."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The Rosetta Stone was discovered by French soldiers constructing military fortifications.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms Pierre-Francois Bouchard found it while excavating fortifications in 1799."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "The Rosetta Stone is carved from polished Italian marble.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states it is a broken slab of granodiorite."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Demotic was the cursive script used for daily administration in ancient Egypt.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B identifies Demotic as 'a cursive script of daily Egyptian administration'."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Thomas Young published his findings in the Encyclopaedia Britannica in 1819.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D discusses Young's discoveries, but mentions no publication in Britannica."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Champollion demonstrated that hieroglyphs could be both phonetic and symbolic within the same passage.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states Champollion discovered it was simultaneously figurative, symbolic, and phonetic."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "Why was the ancient Greek inscription on the Rosetta Stone crucial to decipherment?",
+        "accepted_answers": [
+          "B",
+          "B) It was a known language that enabled scholars to translate the unknown Egyptian texts"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C explains because ancient Greek was well known, it provided an invaluable bilingual key.",
+        "options": [
+          "A) It provided a pronunciation key written in Latin letters",
+          "B) It was a known language that enabled scholars to translate the unknown Egyptian texts",
+          "C) It revealed the hidden geographic coordinates of Cleopatra's tomb",
+          "D) It commanded readers to preserve the stone in a library"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What did an oval border, or 'cartouche', represent in Egyptian hieroglyphic inscriptions?",
+        "accepted_answers": [
+          "B",
+          "B) The phonetic name of a royal monarch or Pharaoh"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D notes symbols enclosed in a cartouche spelled the phonetic name of the Pharaoh.",
+        "options": [
+          "A) A calendar date of astronomical eclipses",
+          "B) The phonetic name of a royal monarch or Pharaoh",
+          "C) A religious curse aimed at grave robbers",
+          "D) The signature of the master stonemason"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "The Rosetta Stone was discovered in 1799 during military campaigns led by ______ Bonaparte.",
+        "accepted_answers": [
+          "Napoleon"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'Napoleon Bonaparte's military expedition'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "The stone featured three inscriptions: Hieroglyphic, Greek, and ______.",
+        "accepted_answers": [
+          "Demotic"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B specifies the middle section is in 'Demotic'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "The decree carved upon the Rosetta Stone was issued to honor King ______ V.",
+        "accepted_answers": [
+          "Ptolemy"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C mentions 'King Ptolemy V Epiphanes'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "The oval loop surrounding royal names in hieroglyphic text is termed a ______.",
+        "accepted_answers": [
+          "cartouche"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D introduces 'an oval border—known as a cartouche'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Full decipherment of the hieroglyphic code was achieved by French scholar Jean-Francois ______.",
+        "accepted_answers": [
+          "Champollion"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E names 'Jean-Francois Champollion'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1019",
+    "title": "The Superorganism: Social Biology of Ant Colonies",
+    "topic": "Entomology & Ecology",
+    "category": "Science & Environment",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "With a global population estimated at 20 quadrillion individuals, ants constitute a combined biomass greater than all wild birds and mammals combined. Found in almost every terrestrial biome on Earth, their extraordinary ecological success is attributable to their complex eusocial organization. Sociobiologists often view an entire ant colony not as an aggregation of individual insects, but as a single coherent entity: a superorganism.",
+      "B": "In a superorganism, individual worker ants function analogously to the specialized cells of a vertebrate body. The queen ant serves as the reproductive organ, laying millions of eggs over her decades-long lifespan. Sterile female worker ants operate as somatic cells, partitioning into distinct castes dedicated to foraging, brood rearing, nest hygiene, and territory defense.",
+      "C": "Ant colonies achieve sophisticated collective decision-making through decentralized self-organization, completely devoid of centralized command. Rather than taking orders from the queen, worker ants coordinate actions via chemical pheromone trails and antennal contact. When a scout ant locates an abundant food source, she deposits an olfactory pheromone trail on her return journey to the nest. Passing nestmates detect this chemical scent, follow it to the food, and reinforce the trail on their return.",
+      "D": "If a food source becomes depleted, returning ants cease reinforcing the pheromone line, allowing the volatile chemical trail to evaporate into ambient air. Through this simple positive feedback loop, the colony rapidly computes the shortest, most energetically optimal route to food without any individual ant having a bird's-eye map of the landscape.",
+      "E": "Some ant species demonstrate agricultural sophistication that predated human farming by 50 million years. South American leafcutter ants (genus Atta) do not eat the foliage they harvest; instead, they transport fresh leaves deep into subterranean chambers to cultivate a specialized basidiomycete fungus. The ants weed out parasitic micro-fungi and fertilize the fungal gardens with fecal matter, harvesting specialized fungal nutrient swellings called gongylidia to nourish their larvae."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "The collective biomass of ants is smaller than that of wild terrestrial mammals.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states ant biomass is greater than all wild birds and mammals combined."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "The queen ant directly commands the daily foraging movements of worker ants.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C states colonies operate devoid of centralized command and without orders from the queen."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "Worker ants lay the majority of reproductive eggs in an established colony.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B states worker ants are sterile; the queen serves as the reproductive organ."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "Pheromone trails naturally fade away when ants stop reinforcing them.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains when food is depleted, ants cease reinforcing and the trail evaporates."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "Leafcutter ants directly digest cellulose from harvested green leaves.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states leafcutter ants do not eat foliage; they use it to cultivate fungus."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Leafcutter ant queens can live for up to forty years underground.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B notes queens live for decades, but does not state a forty-year lifespan specifically for leafcutters."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "Why do biologists describe an ant colony as a 'superorganism'?",
+        "accepted_answers": [
+          "B",
+          "B) Because the colony behaves as a single coordinated living system with specialized castes"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B explains workers function analogously to specialized cells in a single body.",
+        "options": [
+          "A) Because worker ants have superhuman lifting strength",
+          "B) Because the colony behaves as a single coordinated living system with specialized castes",
+          "C) Because colonies construct nests visible from satellites",
+          "D) Because ant genetics are identical to vertebrate reptiles"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What do leafcutter ants feed to their developing larvae?",
+        "accepted_answers": [
+          "B",
+          "B) Nutrient swellings called gongylidia produced by cultivated fungi"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E mentions harvesting fungal nutrient swellings called gongylidia to nourish larvae.",
+        "options": [
+          "A) Unprocessed tree sap",
+          "B) Nutrient swellings called gongylidia produced by cultivated fungi",
+          "C) Crushed seeds collected by forager ants",
+          "D) Decomposed leaves rich in nitrogen"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Biologists conceptualize an entire cohesive ant colony as a single ______.",
+        "accepted_answers": [
+          "superorganism"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A introduces 'a single coherent entity: a superorganism'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "Sterile female ants in a colony are collectively classified as ______.",
+        "accepted_answers": [
+          "workers",
+          "worker ants"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B refers to 'Sterile female worker ants'.",
+        "word_limit": 2
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "Ants communicate travel pathways using chemical secretions known as ______.",
+        "accepted_answers": [
+          "pheromones"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C specifies 'chemical pheromone trails'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "South American leafcutter ants belong to the biological genus ______.",
+        "accepted_answers": [
+          "Atta"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E names 'leafcutter ants (genus Atta)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "Fungal nutrient structures harvested by ants to feed their young are termed ______.",
+        "accepted_answers": [
+          "gongylidia"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E specifies 'nutrient swellings called gongylidia'.",
+        "word_limit": 1
+      }
+    ]
+  },
+  {
+    "id": "READING-1020",
+    "title": "Artificial Intelligence in Clinical Diagnostics",
+    "topic": "Medicine & AI",
+    "category": "Technology & Medicine",
+    "estimated_minutes": 20,
+    "paragraphs": {
+      "A": "In healthcare systems worldwide, diagnostic errors constitute one of the most substantial contributors to patient morbidity and preventable mortality. The sheer deluge of medical data—from high-resolution radiological tomography to complex genomic sequencing—is rapidly outpacing human cognitive bandwidth. The integration of deep learning neural networks into clinical diagnostic workflows is inaugurating an era of precision medicine.",
+      "B": "The most mature clinical application of artificial intelligence resides in medical imaging analysis. Convolutional neural networks (CNNs), trained on millions of annotated scans, have demonstrated diagnostic parity with—and in some specialized niches, superiority to—board-certified radiologists in screening mammography, detecting retinal diabetic retinopathy from fundus photographs, and classifying malignant melanomas from dermatoscopic lesions.",
+      "C": "Unlike human clinicians whose diagnostic performance deteriorates during nocturnal fatigue or overburdened hospital shifts, algorithmic classifiers maintain unwavering consistency. Furthermore, machine learning models can detect subtle, sub-visual pixel variations that escape the naked human eye. In oncology, AI algorithms can predict tumor genomic mutations directly from digitized histological biopsies without waiting for costly, time-consuming molecular assay results.",
+      "D": "However, the widespread clinical deployment of medical AI encounters deep ethical and technical skepticism, centered on the 'black box' problem. Many deep neural networks arrive at classifications through billions of opaque mathematical weights, making it impossible for clinicians to comprehend the causal reasoning behind a diagnosis. In high-stakes medicine, clinicians are reluctant to accept machine diagnoses that cannot explain their clinical etiology.",
+      "E": "To resolve this impasse, computer scientists are developing explainable AI (XAI) and saliency mapping techniques, such as Grad-CAM, which visually highlight the exact pixel regions in an MRI or X-ray scan that influenced the algorithm's conclusion. Ultimately, the consensus among medical leaders is that AI will not replace human physicians; rather, physicians who leverage artificial intelligence will replace those who do not."
+    },
+    "questions": [
+      {
+        "number": 1,
+        "type": "true_false_not_given",
+        "prompt": "Diagnostic medical errors represent a minor cause of preventable patient mortality.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph A",
+        "explanation": "Paragraph A states diagnostic errors constitute one of the most substantial contributors to mortality."
+      },
+      {
+        "number": 2,
+        "type": "true_false_not_given",
+        "prompt": "Convolutional neural networks have matched radiologists in detecting diabetic retinopathy.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B confirms CNNs have demonstrated diagnostic parity in detecting diabetic retinopathy."
+      },
+      {
+        "number": 3,
+        "type": "true_false_not_given",
+        "prompt": "AI imaging algorithms can identify sub-visual patterns invisible to human eyes.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph C",
+        "explanation": "Paragraph C confirms models can detect subtle, sub-visual pixel variations that escape the human eye."
+      },
+      {
+        "number": 4,
+        "type": "true_false_not_given",
+        "prompt": "The US Food and Drug Administration approved the first medical AI tool in 1995.",
+        "accepted_answers": [
+          "NOT GIVEN",
+          "NG"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B discusses clinical applications, but provides no data on 1995 FDA approvals."
+      },
+      {
+        "number": 5,
+        "type": "true_false_not_given",
+        "prompt": "The 'black box' problem refers to the physical weight of MRI computing servers.",
+        "accepted_answers": [
+          "FALSE",
+          "F"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains it refers to the opaque mathematical reasoning behind neural network decisions."
+      },
+      {
+        "number": 6,
+        "type": "true_false_not_given",
+        "prompt": "Grad-CAM is a visualization technique that highlights the image areas influencing AI predictions.",
+        "accepted_answers": [
+          "TRUE",
+          "T"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E confirms Grad-CAM visually highlights exact pixel regions that influenced conclusions."
+      },
+      {
+        "number": 7,
+        "type": "multiple_choice",
+        "prompt": "Why are medical clinicians hesitant to rely completely on deep learning diagnostic models?",
+        "accepted_answers": [
+          "B",
+          "B) Because neural networks cannot explain the causal medical reasoning behind their conclusions"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D explains clinicians are reluctant to accept machine diagnoses that cannot explain their clinical etiology.",
+        "options": [
+          "A) Because medical algorithms cannot operate during hospital power outages",
+          "B) Because neural networks cannot explain the causal medical reasoning behind their conclusions",
+          "C) Because radiologists' unions legally prohibit artificial diagnostic tools",
+          "D) Because digital image files consume too much hospital hard drive storage"
+        ]
+      },
+      {
+        "number": 8,
+        "type": "multiple_choice",
+        "prompt": "What is the prevailing view among healthcare leaders regarding the future of medical AI?",
+        "accepted_answers": [
+          "B",
+          "B) Human physicians who utilize AI will outperform and replace physicians who do not"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E states physicians who leverage AI will replace those who do not.",
+        "options": [
+          "A) AI software will make human doctors completely obsolete by 2030",
+          "B) Human physicians who utilize AI will outperform and replace physicians who do not",
+          "C) Governments will outlaw AI diagnostic screening to protect medical jobs",
+          "D) Patients will refuse to seek treatment in clinics equipped with AI computers"
+        ]
+      },
+      {
+        "number": 9,
+        "type": "fill_in_blank",
+        "prompt": "Deep learning algorithms commonly utilized for analyzing medical imagery are ______ neural networks.",
+        "accepted_answers": [
+          "convolutional"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B names 'Convolutional neural networks (CNNs)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 10,
+        "type": "fill_in_blank",
+        "prompt": "AI systems screen fundus eye photographs to identify diabetic ______.",
+        "accepted_answers": [
+          "retinopathy"
+        ],
+        "evidence_paragraph": "Paragraph B",
+        "explanation": "Paragraph B mentions 'detecting retinal diabetic retinopathy'.",
+        "word_limit": 1
+      },
+      {
+        "number": 11,
+        "type": "fill_in_blank",
+        "prompt": "The opaque, uninterpretable nature of complex neural networks is termed the ______ box problem.",
+        "accepted_answers": [
+          "black"
+        ],
+        "evidence_paragraph": "Paragraph D",
+        "explanation": "Paragraph D discusses 'the black box problem'.",
+        "word_limit": 1
+      },
+      {
+        "number": 12,
+        "type": "fill_in_blank",
+        "prompt": "Artificial intelligence frameworks designed to clarify diagnostic decisions are termed ______ AI.",
+        "accepted_answers": [
+          "explainable",
+          "XAI"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E introduces 'explainable AI (XAI)'.",
+        "word_limit": 1
+      },
+      {
+        "number": 13,
+        "type": "fill_in_blank",
+        "prompt": "The saliency visualization method mentioned that highlights critical image pixels is called Grad-______.",
+        "accepted_answers": [
+          "CAM"
+        ],
+        "evidence_paragraph": "Paragraph E",
+        "explanation": "Paragraph E explicitly specifies 'Grad-CAM'.",
+        "word_limit": 1
+      }
+    ]
+  }
+]
