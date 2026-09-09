@@ -7,13 +7,22 @@ import 'package:ielts_prep_app/features/srs/services/srs_storage_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
+  late AppDatabase db;
+
   setUpAll(() {
     sqfliteFfiInit();
     databaseFactory = databaseFactoryFfi;
   });
 
+  setUp(() async {
+    SharedPreferences.setMockInitialValues({});
+    db = await AppDatabase.openInMemory();
+    AppDatabase.setInstance(db);
+  });
+
   tearDown(() async {
-    await AppDatabase.instance.clearAll();
+    await db.clearAll();
   });
 
   group('AppDatabase & SQLite Tests', () {
@@ -88,20 +97,31 @@ void main() {
       expect(history[1].rating, 5);
     });
 
-    test('SrsStorageService automatically migrates legacy SharedPreferences data', () async {
-      SharedPreferences.setMockInitialValues({
-        'ielts_srs_cards_v1': '{"LEGACY-001": {"vocab_id": "LEGACY-001", "repetition": 1, "ease_factor": 2.5, "interval_days": 1, "due_date": "2026-09-08T00:00:00.000", "lapse_count": 0, "state": "learning"}}',
-        'ielts_study_streak': 5,
-        'ielts_last_study_date': '2026-09-07T00:00:00.000',
-      });
-
+    test('SrsStorageService directly saves, batch saves, and loads cards from SQLite', () async {
       final storage = SrsStorageService();
-      final cards = await storage.loadCards();
-      expect(cards.containsKey('LEGACY-001'), isTrue);
-      expect(cards['LEGACY-001']!.vocabId, 'LEGACY-001');
+      
+      final card1 = SrsCard.initial('DIRECT-001');
+      await storage.saveCard(card1);
+
+      final cardsList = [
+        SrsCard.initial('BATCH-101'),
+        SrsCard.initial('BATCH-102'),
+      ];
+      await storage.saveCards(cardsList);
+
+      final loaded = await storage.loadCards();
+      expect(loaded.containsKey('DIRECT-001'), isTrue);
+      expect(loaded.containsKey('BATCH-101'), isTrue);
+      expect(loaded.containsKey('BATCH-102'), isTrue);
+
+      final single = await storage.getOrCreateCard('DIRECT-001');
+      expect(single.vocabId, 'DIRECT-001');
 
       final streak = await storage.getStreak();
-      expect(streak, 5);
+      expect(streak, 0);
+
+      final newStreak = await storage.recordStudySession();
+      expect(newStreak, 1);
     });
   });
 }

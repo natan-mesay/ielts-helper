@@ -13,13 +13,32 @@ class AppDatabase {
   Database? _db;
 
   AppDatabase._();
+  AppDatabase.forDatabase(this._db);
 
   static AppDatabase get instance => _instance ??= AppDatabase._();
 
   /// Visible for testing to inject custom/in-memory database instance
   @visibleForTesting
-  static void setInstance(AppDatabase customInstance) {
+  static void setInstance(AppDatabase? customInstance) {
     _instance = customInstance;
+  }
+
+  /// Creates a clean in-memory database instance for testing
+  @visibleForTesting
+  static Future<AppDatabase> openInMemory() async {
+    if (!kIsWeb && (Platform.isLinux || Platform.isWindows || Platform.isMacOS)) {
+      sqfliteFfiInit();
+      databaseFactory = databaseFactoryFfi;
+    }
+    final db = await openDatabase(
+      inMemoryDatabasePath,
+      version: _dbVersion,
+      onCreate: (db, version) async {
+        final instance = AppDatabase._();
+        await instance._onCreate(db, version);
+      },
+    );
+    return AppDatabase.forDatabase(db);
   }
 
   Future<Database> get database async {

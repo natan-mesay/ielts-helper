@@ -44,6 +44,9 @@ VocabularyItem _createItem({
 }
 
 void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
+  late AppDatabase db;
+
   setUpAll(() {
     sqfliteFfiInit();
     databaseFactory = databaseFactoryFfi;
@@ -51,7 +54,12 @@ void main() {
 
   setUp(() async {
     SharedPreferences.setMockInitialValues({});
-    await AppDatabase.instance.clearAll();
+    db = await AppDatabase.openInMemory();
+    AppDatabase.setInstance(db);
+  });
+
+  tearDown(() async {
+    await db.clearAll();
   });
 
   test('StudySessionController re-queues incorrect words for intra-session re-learning', () async {
